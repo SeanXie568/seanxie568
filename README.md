@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Sean Xie.
 
-<!--
-**SeanXie568/seanxie568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building AI-powered native iOS experiences — combining SwiftUI, local LLMs, and modern UI/UX to explore what's possible on-device.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Building
+
+**Swift LLM Chat App** — A native iOS chat interface with:
+
+- 💬 Multi-turn chat UI (user + bot)
+- 🤖 Fake model for UI testing
+- 📂 Support for `.gguf` LLMs (Gemma, Qwen, etc.)
+- 🔄 Auto-scroll, avatars, and future persistence
+- 🛠️ Written in **SwiftUI** + `LLM.swift`
+
+> This project is a playground for experimenting with AI-first mobile design — where models run **locally**, and the UI feels smooth and native.
+
+[👉 View project repo](https://github.com/seanxie568/chatapp)
+
+---
+
+## 🔧 Tools & Interests
+
+- Swift, SwiftUI
+- LLMs, on-device AI (Gemma, Qwen, Mistral)
+- Creative UX for chat, memory, and personalization
+- Local-first apps
+
+---
+
+## 🧪 Goals
+
+- Build practical tools powered by local models
+- Explore design patterns for AI-native mobile apps
+- Ship real experiences, not just demos
+
+---
+
+## 🤖 Powered by
+
+> Parts of this were co-created with [ChatGPT](https://openai.com/chatgpt) — used as a coding partner and architecture assistant.
+
+---
+
+## 📫 Let's Connect
+
+Feel free to follow or reach out if you're working on anything similar!
+
