@@ -9,23 +9,12 @@ I'm building AI-powered native iOS experiences — combining SwiftUI, local LLMs
 **Swift LLM Chat App** — A native iOS chat interface with:
 
 - 💬 Multi-turn chat UI (user + bot)
-- 🤖 Fake model for UI testing
 - 📂 Support for `.gguf` LLMs (Gemma, Qwen, etc.)
-- 🔄 Auto-scroll, avatars, and future persistence
 - 🛠️ Written in **SwiftUI** + `LLM.swift`
 
 > This project is a playground for experimenting with AI-first mobile design — where models run **locally**, and the UI feels smooth and native.
 
 [👉 View project repo](https://github.com/seanxie568/chatapp)
-
----
-
-## 🔧 Tools & Interests
-
-- Swift, SwiftUI
-- LLMs, on-device AI (Gemma, Qwen, Mistral)
-- Creative UX for chat, memory, and personalization
-- Local-first apps
 
 ---
 
@@ -43,7 +32,5 @@ I'm building AI-powered native iOS experiences — combining SwiftUI, local LLMs
 
 ---
 
-## 📫 Let's Connect
 
-Feel free to follow or reach out if you're working on anything similar!
 
